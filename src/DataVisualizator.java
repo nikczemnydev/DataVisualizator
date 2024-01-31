@@ -11,9 +11,10 @@ import java.util.Scanner;
 public class DataVisualizator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter the data in the format: name1 percentage1; name2 percentage2; ...");
+        System.out.println("Please input your data in the following format: name1 percentage1;" +
+                "name2 percentage2;etc...");
         String data = scanner.nextLine();
-        System.out.println("Enter the type of graph you want to create (pie/bar):");
+        System.out.println("As what type of chart would you like me to represent your data, pie or bar?");
         String type = scanner.nextLine();
         scanner.close();
 
