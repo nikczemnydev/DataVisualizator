@@ -4,5 +4,5 @@ To use the program, users simply enter their data in the form of a phrase that i
 
 It's got simple data visualization capabilities, hence this product is perfect for anyone looking to create custom charts and graphs quickly and easily. Whether you’re a data analyst, a business owner, or just someone who wants to visualize their data in a more meaningful way, this program is the perfect tool for the simple jobs.
 
-This is what is looks like:
+This is what it looks like (for anybody interested, the chart used in the example represents top 10 air polluting countries by their percentage in global emissions):
 ![Screenshot 2024-01-31 165409](https://github.com/nikczemnydev/DataVisualizator/assets/136376818/0424662f-5b55-471c-b0ce-89b338e60637)
